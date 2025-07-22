@@ -1,3 +1,5 @@
+:root{--color-primaria: #19485F;}
+
 body{
     background: #D9E0A4;
     background: radial-gradient(circle, rgba(217, 224, 164, 1) 0%, rgba(25, 72, 95, 1) 100%);
@@ -23,7 +25,7 @@ form{
     align-items: center;
     justify-content: center;
     color: #e9f1b1;
-    background-color: #19485F;
+    background-color: var(--color-primaria);
     width: 432px;
     height: 80px;
     border-radius: 10px 10px 20px 20px;
@@ -79,7 +81,7 @@ textarea{
 button{
     position: relative;
     bottom: 0;
-    background-color: #19485F;
+    background-color: var(--color-primaria);
     font-size: 20px;
     color: #e9f1b1;
     width: 330px;
@@ -91,7 +93,7 @@ button{
 }
 
 button:hover{
-    background-color: #003764;
+    background-color: #19415f;
     cursor: pointer;
     box-shadow: none;
 }
