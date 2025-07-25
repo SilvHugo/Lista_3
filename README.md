@@ -15,7 +15,6 @@ Em cada exercicío foram tematizados para uma facíl execução e facilitação 
 
 ## Temas
 - The Bazaar
-- Monkeys islands
 - DownWell
 - Toem
 - 20 minutes till dawn
